@@ -113,20 +113,19 @@ balajik7.ai@gmail.com
 
 ---
 
-## Open Source Goals 2026
-
-- Kubernetes Contributor
-- Kubeflow Contributor
-- LangGraph Contributor
-- JAX Contributor
+## Open Source Goals 2026-2027
 - Publish AI Research at CVPR
 
 
-## GitHub Statistics
+## Open Source Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balaji-Kesavan&show_icons=true)
+- LangGraph Contributor (In Progress)
+- Kubeflow Contributor (In Progress)
+- Kubernetes Contributor (In Progress)
+- JAX Contributor (In Progress)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Kesavan&layout=compact)
+
+
 
 
 
