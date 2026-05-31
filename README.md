@@ -120,6 +120,12 @@ balajik7.ai@gmail.com
 ## Open Source Contributions
 
 - LangGraph Contributor (In Progress)
+   - Forked and contributing to LangGraph
+   - Submitted PRs for documentation and examples
+   - Working on multi-agent workflow improvements
+   Repository:
+   https://github.com/Balaji-Kesavan/langgraph
+
 - Kubeflow Contributor (In Progress)
 - Kubernetes Contributor (In Progress)
 - JAX Contributor (In Progress)
