@@ -1,24 +1,6 @@
-## Hi there 👋
+# I'm Balaji Kesavan
 
-<!--
-**Balaji-Kesavan/Balaji-Kesavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# Hi 👋 I'm Balaji Kesavan
-
-AI Engineering Manager | Agentic AI Architect | M.Tech (AI & ML) @ IIT Jammu
+AI Engineering Manager | Agentic AI Architect | FDE | M.Tech (AI & ML) @ IIT Jammu
 
 ---
 
@@ -35,7 +17,7 @@ AI Engineering Manager | Agentic AI Architect | M.Tech (AI & ML) @ IIT Jammu
   - MLOps & LLMOps
   - Distributed Systems
 
-- Completed my Masters Exec - M.Tech in AI & ML from IIT Jammu
+- Completed my Masters Exec - M.Tech in Artificial Intelligence  & Machine Learning from IIT Jammu
 
 ---
 
@@ -117,10 +99,7 @@ Research focusing on Event Cameras and Robust Computer Vision.
 
 ## Certifications
 
-- Professional Scrum Master I
-- PRINCE2 Practitioner
 
----
 
 ## Connect With Me
 
@@ -128,7 +107,6 @@ LinkedIn:
 www.linkedin.com/in/balaji-k7
 
 Portfolio:
--- https://balajik7.ai
 
 Email:
 balajik7.ai@gmail.com
@@ -142,3 +120,13 @@ balajik7.ai@gmail.com
 - LangGraph Contributor
 - JAX Contributor
 - Publish AI Research at CVPR
+
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balaji-Kesavan&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-Kesavan&layout=compact)
+
+
+
