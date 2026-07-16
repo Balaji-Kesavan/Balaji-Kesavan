@@ -1,6 +1,6 @@
 # I'm Balaji Kesavan
 
-AI Engineering Manager | Agentic AI Architect | FDE | M.Tech (AI & ML) @ IIT Jammu
+AI Engineering Manager | Agentic AI Architect | FDE | M.Tech (AI & ML) @ IIT 
 
 ---
 
